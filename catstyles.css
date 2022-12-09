@@ -1,0 +1,92 @@
+@charset "utf-8";
+.container-fluid {
+    background-image: url(images/background.PNG);
+
+
+}
+
+/* HTML Styles */
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(240,237,187,1.00) 0%,rgba(222,211,121,1.00) 17.20%,rgba(206,193,82,1.00) 41.66%,rgba(174,158,40,1.00) 66.84%);
+    background-image: -moz-linear-gradient(270deg,rgba(240,237,187,1.00) 0%,rgba(222,211,121,1.00) 17.20%,rgba(206,193,82,1.00) 41.66%,rgba(174,158,40,1.00) 66.84%);
+    background-image: -o-linear-gradient(270deg,rgba(240,237,187,1.00) 0%,rgba(222,211,121,1.00) 17.20%,rgba(206,193,82,1.00) 41.66%,rgba(174,158,40,1.00) 66.84%);
+    background-image: linear-gradient(180deg,rgba(240,237,187,1.00) 0%,rgba(222,211,121,1.00) 17.20%,rgba(206,193,82,1.00) 41.66%,rgba(174,158,40,1.00) 66.84%);
+
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: rgba(79,68,8,1.00);
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: normal;
+    font-weight: bold;
+}
+div p strong {
+    color: rgba(0,0,0,1.00);
+    text-shadow: 2px 2px rgba(255,255,255,1.00);
+}
+
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    color: rgba(0,0,0,1.00);
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    float: left;
+    background-image: -webkit-linear-gradient(270deg,rgba(211,172,172,1.00) 0%,rgba(213,129,129,1.00) 17.20%,rgba(213,105,105,1.00) 45.80%,rgba(221,87,87,1.00) 67.25%);
+    background-image: -moz-linear-gradient(270deg,rgba(211,172,172,1.00) 0%,rgba(213,129,129,1.00) 17.20%,rgba(213,105,105,1.00) 45.80%,rgba(221,87,87,1.00) 67.25%);
+    background-image: -o-linear-gradient(270deg,rgba(211,172,172,1.00) 0%,rgba(213,129,129,1.00) 17.20%,rgba(213,105,105,1.00) 45.80%,rgba(221,87,87,1.00) 67.25%);
+    background-image: linear-gradient(180deg,rgba(211,172,172,1.00) 0%,rgba(213,129,129,1.00) 17.20%,rgba(213,105,105,1.00) 45.80%,rgba(221,87,87,1.00) 67.25%);
+}
+.container-fluid .container footer {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+
+.text-center div p {
+    color: rgba(0,0,0,1.00);
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    text-shadow: 2px 2px rgba(255,255,255,1.00);
+}
+.container .text-center em {
+    color: rgba(0,0,0,1.00);
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    text-shadow: 1px 1px rgba(255,255,255,1.00);
+}
+.card.col-md-4.col-lg-12 .card-body .card-text {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+.row .col-lg-4 .card.col-md-4.col-lg-12 {
+    background-image: -webkit-linear-gradient(270deg,rgba(223,227,168,1.00) 0%,rgba(209,204,111,1.00) 20.93%,rgba(198,197,80,1.00) 41.66%,rgba(187,185,56,1.00) 70.26%,rgba(163,158,17,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(223,227,168,1.00) 0%,rgba(209,204,111,1.00) 20.93%,rgba(198,197,80,1.00) 41.66%,rgba(187,185,56,1.00) 70.26%,rgba(163,158,17,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(223,227,168,1.00) 0%,rgba(209,204,111,1.00) 20.93%,rgba(198,197,80,1.00) 41.66%,rgba(187,185,56,1.00) 70.26%,rgba(163,158,17,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(223,227,168,1.00) 0%,rgba(209,204,111,1.00) 20.93%,rgba(198,197,80,1.00) 41.66%,rgba(187,185,56,1.00) 70.26%,rgba(163,158,17,1.00) 100.00%);
+
+}
+
+
+.carousel-inner .carousel-item .carousel-caption {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    color: rgba(233,116,117,1.00);
+    text-shadow: 1px 1px rgba(0,0,0,1.00);
+}
+
+
+.container-fluid .container .text-center {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+
+
+
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-weight: bold;
+    font-size: x-large;
+    font-style: normal;
+}
+.container .row .col-lg-6 {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-size: x-large;
+    text-shadow: 1px 1px rgba(255,255,255,1.00);
+}
+.row .col-lg-6 p {
+    background-color: rgba(240,191,184,0.80);
+}
+.row .col-lg-6 video {
+    max-width: 100%;
+
+}
